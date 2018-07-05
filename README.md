@@ -1,2 +1,1 @@
-# SoftwareRasterizer
-A tiny software rasterizer
+Codes taken from https://github.com/Steve132/uraster
